@@ -1,0 +1,5 @@
+name: Latihan1
+version: '${project.version}'
+main: id.frostfire1.latihan1.Main
+api-version: 1.19
+authors: [ frostfire1 ]
